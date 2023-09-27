@@ -1,13 +1,13 @@
 👋 Hello, I'm Hemant Mhalsekar <br>
 🚀 Software Developer | 💻 Code Enthusiast | 🌐 Tech Explorer
 
-👨‍💻 Crafting clean code and building digital solutions.
-🔧 Turning coffee into code, one line at a time.
-🌟 Passionate about technology, innovation, and open source.
+👨‍💻 Crafting clean code and building digital solutions.<br>
+🔧 Turning coffee into code, one line at a time.<br>
+🌟 Passionate about technology, innovation, and open source.<br>
 
-🔗 Connect with me:
-🌐 Portfolio: In Progress
-📫 Email: hemantmhalsekar1@gmail.com
+🔗 Connect with me:<br>
+🌐 Portfolio: In Progress<br>
+📫 Email: hemantmhalsekar1@gmail.com<br>
 📱 LinkedIn: (https://www.linkedin.com/in/hemant-mhalsekar-464a50244/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-Mhalsekar&layout=compact&langs_count=8)
