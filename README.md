@@ -6,7 +6,7 @@
 🌟 Passionate about technology, innovation, and open source.<br>
 
 🔗 Connect with me:<br>
-🌐 Portfolio: In Progress<br>
+🌐 Portfolio: In Progress.<br>
 📫 Email: hemantmhalsekar1@gmail.com<br>
 📱 LinkedIn: (https://www.linkedin.com/in/hemant-mhalsekar-464a50244/)
 
