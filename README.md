@@ -17,30 +17,6 @@ I’m a passionate developer who enjoys building clean, scalable applications an
 
 ---
 
-## 🚀 Projects
-
-### **Library Management System**
-**Tech:** *Java, MySQL, JDBC, Maven*  
-- Console-based library system built using **MVC (Model–DAO–Service–UI)** architecture  
-- Manage books, members, and transactions  
-- Issue & return books with automatic fine calculation  
-- Persistent MySQL database integration  
-- Clean, modular, and scalable codebase  
-
-### **SETU HRM**
-HR Management System  
-**Tech:** *React, PostgreSQL*  
-- Manages employee records, attendance, and roles  
-- Focused on structured data handling and system workflows  
-
-### **Attainment of Learning Outcomes**
-Academic Outcome Mapping Tool  
-**Tech:** *HTML, CSS, JavaScript*  
-- Maps Course Outcomes to Program Outcomes  
-- Designed for academic institutions  
-
----
-
 ## 🌱 Currently Learning
 
 - Core & Advanced Java  
