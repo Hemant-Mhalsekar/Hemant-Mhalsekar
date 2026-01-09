@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Hemant Mhalsekar
+# Hi, I'm Hemant Mhalsekar 👋
 
-🎓 MCA (Artificial Intelligence & Machine Learning) Student  
+🎓 MCA (AI & ML) Student  
 💻 Aspiring Software Engineer | Java-Focused Developer  
 📍 Goa, India | Currently based in Bangalore
 
@@ -8,49 +8,37 @@ I’m a passionate developer who enjoys building clean, scalable applications an
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
-### 💡 Programming Languages
-- Java  
-- Python  
-- JavaScript  
-- SQL  
-
-### 🌐 Web Development
-- HTML  
-- CSS  
-- Basic React  
-- Node.js (Basics)
-
-### 🤖 AI / Machine Learning
-- NumPy  
-- Pandas  
-- Scikit-learn  
-
-### 🔧 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Linux  
-- MySQL  
+- **Languages:** Java, Python, JavaScript, SQL  
+- **Web:** HTML, CSS, Basic React  
+- **AI/ML:** NumPy, Pandas, Scikit-learn  
+- **Tools:** Git, GitHub, VS Code, MySQL, Linux  
 
 ---
 
 ## 🚀 Projects
 
+### **Library Management System**  
+  **Tech:** *Java, MySQL, JDBC, Maven*  
+  - A full-featured console-based library system built using **MVC (Model–DAO–Service–UI)** architecture.  
+  - Manage books, members, and transactions  
+  - Issue & return books with automatic fine calculation  
+  - Persistent MySQL database integration  
+  - Clean, modular, and scalable code structure  
+
 ### **SETU HRM**
 HR Management System  
-**Tech:** React, Postgresql  
+**Tech:** *React, Postgresql*
 - Manages employee records, attendance, and roles  
 - Focused on clean backend logic and database design  
 
-### **COs–POs Mapping System**
- 
-
 ### **Attainment of Learning Outcomes**
 Academic Outcome Mapping Tool  
-**Tech:** HTML, CSS, JS 
+**Tech:** *HTML, CSS, JS*
 - Maps Course Outcomes to Program Outcomes  
 - Designed for academic institutions
+
 ---
 
 ## 🌱 Currently Learning
@@ -59,7 +47,7 @@ Academic Outcome Mapping Tool
 - Object-Oriented Programming (OOP)  
 - Data Structures & Algorithms  
 - Machine Learning fundamentals  
-- Building production-ready applications  
+- Building production-ready applications
 
 ---
 
@@ -77,8 +65,8 @@ Academic Outcome Mapping Tool
 - 📫 Email: hemantmhalsekar1@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/hemant-mhalsekar-464a50244/  
 - 🌐 Portfolio: Coming Soon  
-
 ---
+
 
 ⚡ *I believe in writing code that is simple, readable, and easy to maintain.*
 
