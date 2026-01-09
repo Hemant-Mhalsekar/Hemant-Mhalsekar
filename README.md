@@ -63,12 +63,6 @@ Academic Outcome Mapping Tool
 
 ---
 
-## 📊 GitHub Stats
-
-![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemant-Mhalsekar&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Open to Collaborate On
 
 - Java-based applications  
