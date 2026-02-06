@@ -31,7 +31,7 @@ I’m a passionate developer who enjoys building clean, scalable applications an
 
 - Java-based applications  
 - Web development projects  
-- Beginner-friendly AI/ML projects  
+- AI/ML projects  
 - Open-source contributions  
 
 ---
