@@ -31,7 +31,6 @@ public class Hemant extends FullStackDeveloper {
     String name        = "Hemant Mhalsekar";
     String degree      = "MCA — AI & ML Specialization @ Jain University, Bengaluru";
     String location    = "Bengaluru, Karnataka, India";
-    String phone       = "+91 7378434578";
 
     String[] experience = {
         "Freelance Web Developer — VEYRA (E-Commerce Brand)",
@@ -150,32 +149,6 @@ Currently building production-ready full stack projects. Watch this space!
 </td>
 </tr>
 </table>
-
----
-
-## 📄 Publications
-
-| Year | Title | Journal |
-|------|-------|---------|
-| Feb 2026 | *"The Influence of AI-Driven Systems on Consumer Behaviour in E-Commerce"* | IJFMR |
-| May 2025 | *"AI-Powered Interventions for Youth Social Media Addiction"* | IJCRT |
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Period | CGPA |
-|--------|-------------|--------|------|
-| **MCA — AI & ML Specialization** | Jain (Deemed-to-be) University, Bengaluru | Aug 2024 – Present | 7.3 *(Ongoing)* |
-| **BCA** | Dnyanprassarak Mandal's College, Goa | Jun 2020 – Apr 2023 | 8.3 |
-
----
-
-## 🏅 Certifications
-
-- 📘 **Data Structures** — Verified Certificate
-- 🌐 **Introduction to Front-End Development**
-- 🏢 **Atlassian Agile Project Management Professional Certificate**
 
 ---
 
