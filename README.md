@@ -77,13 +77,6 @@ AI-powered surveillance system using YOLOv8 for real-time object detection. Depl
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemant-Mhalsekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-Mhalsekar&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hemant-Mhalsekar&theme=tokyonight&hide_border=true)
 
 </div>
