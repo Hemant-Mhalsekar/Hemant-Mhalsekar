@@ -5,45 +5,44 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-mhalsekar-464a50244/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantmhalsekar1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemant-Mhalsekar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 MCA student specializing in **AI & ML** at Jain (Deemed-to-be University), Bengaluru
-- 🔭 Currently building full-stack apps with **MERN** stack and AI integrations
-- 🎯 Targeting **SDE / Full Stack Developer** roles
-- 📍 Based in **Bengaluru, India**
+- MCA student specializing in **AI & ML** at Jain (Deemed-to-be University), Bengaluru
+- Building full-stack applications with **MERN** stack and AI integrations
+- Targeting **SDE / Full Stack Developer** roles
+- Based in **Bengaluru, India**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 [TaskPilot — AI-Powered Task Manager](https://taskpilot-task-manager.netlify.app)
+### [TaskPilot — AI-Powered Task Manager](https://github.com/Hemant-Mhalsekar/TaskPilot_AI_Powered_Task_Manager)
 > React.js · Node.js · Express.js · MongoDB · Groq API · Socket.io · Tailwind CSS
 
 Full-stack MERN task manager with a drag-and-drop Kanban board, real-time multi-client sync via Socket.io, and JWT authentication. Integrated **Groq LLM (Llama 3.3)** for AI-powered task priority suggestions, subtask generation, and a daily focus mode. Deployed on Netlify + Vercel.
 
 ---
 
-### 📊 [CO-PO Mapper](https://github.com/Hemant-Mhalsekar)
+### [CO-PO Mapper](https://github.com/Hemant-Mhalsekar/co-po-mapping)
 > React.js · Zustand · SheetJS · react-to-print · Tailwind CSS
 
 Web tool to map Course Outcomes to Program Outcomes for academic use. Migrated from vanilla HTML/JS to React with Zustand for state management. Supports Excel import/export and print-ready report generation.
 
 ---
 
-### 🎥 [Real-Time AI Surveillance System](https://github.com/Hemant-Mhalsekar)
+### [Real-Time AI Surveillance System](https://github.com/Hemant-Mhalsekar/Real-Time-AI-Surveillance-System)
 > Python · YOLOv8 · FastAPI · OpenCV · Render
 
 AI-powered surveillance system using YOLOv8 for real-time object detection. Deployed on Render with a pre-processed demo video pipeline. Capable of multi-object tracking across live feeds.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -73,7 +72,7 @@ AI-powered surveillance system using YOLOv8 for real-time object detection. Depl
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -83,7 +82,7 @@ AI-powered surveillance system using YOLOv8 for real-time object detection. Depl
 
 ---
 
-## 📄 Publications
+## Publications
 
 - **"The Influence of AI-Driven Systems on Consumer Behaviour in E-Commerce"** — IJFMR, Vol 8, Issue 1, 2026
 - **"AI-Powered Interventions for Youth Social Media Addiction"** — IJCRT, 2025
